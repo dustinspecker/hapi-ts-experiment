@@ -1,0 +1,25 @@
+{
+  "name": "hapi-ts-experiment",
+  "version": "0.0.0",
+  "description": "Experimenting using TypeScript with Hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinspecker/hapi-typescript-experiment"
+  },
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/hapi-typescript-experiment/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/hapi-typescript-experiment",
+  "devDependencies": {
+    "typescript": "^1.5.0-beta"
+  },
+  "dependencies": {
+    "hapi": "^8.5.1"
+  }
+}

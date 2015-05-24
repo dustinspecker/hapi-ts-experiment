@@ -1,0 +1,17 @@
+{
+  "version": "1.5.0",
+  "compilerOptions": {
+    "declaration": false,
+    "listFiles": false,
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "noLib": false,
+    "removeComments": true,
+    "sourceMap": false,
+    "target": "ES5"
+  },
+  "files": [
+    "./server.ts",
+    "./typings/tsd.d.ts"
+  ]
+}
